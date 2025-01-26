@@ -23,7 +23,7 @@ The Task Management System is a web application designed to help users efficient
 
 ## Setup Instructions
 
-1. Clone repository
+1. Clone repository https://github.com/jimmy619-fk/septemSystem.git
 2. Install dependencies: `npm install`
 3. Create `.env` file with required configurations (if you want to use mine you can extract zip folder sended on mail to hr)
 4. replace your scripts in package.json with below script
